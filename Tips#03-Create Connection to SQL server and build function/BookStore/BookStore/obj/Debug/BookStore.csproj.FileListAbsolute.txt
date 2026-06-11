@@ -1,0 +1,20 @@
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.frmlogin.resources
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\JoinCoder\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.frmlogin.resources
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.csproj.Up2Date
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\_Github\BookStore\Tips#03-Create Connection to SQL server and build function\BookStore\BookStore\obj\Debug\BookStore.pdb
